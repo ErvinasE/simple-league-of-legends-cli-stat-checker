@@ -128,8 +128,3 @@ flowchart TD
   matchDetailApi --> participantExtract[ExtractParticipantByPUUID]
   participantExtract --> summaryOutput[FormattedSummaryCLI]
 ```
-
-## Portfolio Tips
-
-- Add one screenshot of successful terminal output to `screenshots/`.
-- Put this screenshot in your LinkedIn post with a short explanation of how you mapped Riot regions and handled API errors.

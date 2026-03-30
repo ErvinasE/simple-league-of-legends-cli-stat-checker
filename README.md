@@ -1,6 +1,6 @@
 # Simple League of Legends CLI Stat Checker
 
-Simple League of Legends CLI Stat Checker is a one-day Python project that uses Riot's APIs to fetch a player's **most recent League of Legends match** and print a clean summary in the terminal.
+Simple League of Legends CLI Stat Checker Python project that uses Riot's APIs to fetch a player's **most recent League of Legends match** and print a clean summary in the terminal.
 
 ## What It Shows
 
